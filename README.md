@@ -26,4 +26,6 @@ You'll need to use Insomnia to post requests.
 ## License: 
 Please refer to the LICENSE in the repo. The content might differ slightly
 
+## Credits:
+Taskinoz <3
 
